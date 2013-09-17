@@ -1,16 +1,17 @@
 nTh.js
 ======
 
-nTh.js is a javascript micro-library to return ordinal suffixes from integers (ie: 1st, 2nd, 3rd, 7th of 9)
+nTh.js is a javascript micro-library to return ordinal suffixes from integers (ie: 1st, 2nd, 3rd, 7th of 9).
 
+======
 
-#### Standard Usage:
+#### Standard Usage - _nth(int)_:
 `nth(4077);` produces `4077th`
 
-#### Nth of Set:
+#### Nth of Set - _nth.of(int, int)_:
 `nth.of(1,3);` produces `1st of 3`
 
-#### Via DOM attributes
+#### Via jQuery Class Selection:
 ``` html
   <ul>
     <li class='nth'>0</li>
