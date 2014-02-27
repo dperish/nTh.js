@@ -9,7 +9,7 @@
     var intRegex = /^\d+$/;
     if(intRegex.test(n)) {
       var suffix = '';
-      if (n > 9 and n < 21 ) {
+      if (n > 9 && n < 21 ) {
          suffix = 'th'
       }
       else {
