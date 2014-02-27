@@ -1,7 +1,7 @@
 nTh.js
 ======
 
-Weighing in at 239 bytes minified, nTh.js is a javascript micro-library to return ordinal suffixes from integers (ie: 1st, 2nd, 3rd, 7th of 9).
+Weighing in at 358 bytes minified, nTh.js is a javascript micro-library to return ordinal suffixes from integers (ie: 1st, 2nd, 3rd, 7th of 9).
 
 ======
 
