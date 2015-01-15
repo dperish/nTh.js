@@ -1,7 +1,7 @@
 nTh.js
 ======
 
-Weighing in at 386 bytes minified, nTh.js is a javascript micro-library to return ordinal suffixes from integers (ie: 1st, 2nd, 3rd, 7th of 9).
+Weighing in at 368 bytes minified, nTh.js is a javascript micro-library to return ordinal suffixes from integers (ie: 1st, 2nd, 3rd, 7th of 9).
 
 ======
 
@@ -36,3 +36,21 @@ produces:
   <li>3rd</li>
   <li>4077th</li>
 </ul>
+
+======
+### Contributions
+This library was written by:
+- David Lee Perish @DavidPerish - http://stonyhillsoftware.com
+
+- Brandon McKinney @pagefold - http://bsstudio.us
+
+- Gleb Bahmutov @bahmutov - http://glebbahmutov.com
+
+Any & all contributions are welcomed.
+
+======
+### License
+
+nTh.js is free (as in love), and is provided under The MIT License (MIT)
+
+
