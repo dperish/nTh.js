@@ -45,6 +45,7 @@ This library was written by:
 - Brandon McKinney @pagefold - http://bsstudio.us
 
 - Gleb Bahmutov @bahmutov - http://glebbahmutov.com
+  - See Gleb's excellent article on 'Optimizing nTh' here: http://bahmutov.calepin.co/optimizing-nth.html 
 
 Any & all contributions are welcomed.
 
