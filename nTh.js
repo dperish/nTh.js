@@ -1,8 +1,6 @@
 /* nTh.js - is a javascript micro-library to return lower ordinals from integers
-   version: 0.2.2
-   date: 2014-03-19
-   license: Copyright (c) 2013 David Perish, MIT License
-   contributor: Brandon McKinney @pagefold */
+   license: Copyright (c) 2013-2015 David Perish, MIT License
+   contributors: Brandon McKinney @pagefold, Gleb Bahmutov @bahmutov */
 
 (function () {
     "use strict";
